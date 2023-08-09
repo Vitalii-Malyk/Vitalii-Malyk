@@ -4,7 +4,7 @@
 - 💞️ I want to **cooperate with experienced developers**
 - 📫 How to contact me: [malyk.vitaliy@gmail.com]
 
-**My stack**
+**My stack will never be final**
 
 ![javascript (2)](https://github.com/Vitalii-Malyk/Vitalii-Malyk/assets/125901006/e731f22e-48ab-405b-8443-9b32e7117b3f)
 ![visual-studio-code (1)](https://github.com/Vitalii-Malyk/Vitalii-Malyk/assets/125901006/7c9a768f-e84b-469f-9105-92d74129b549)

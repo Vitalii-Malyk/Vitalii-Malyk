@@ -1,4 +1,4 @@
-- 👋 Hello, I'm Vitaly
+- 👋 Hello, I'm Vitalii
 - 👀 I'm interested **in how many days you can code without stopping**
 - 🌱 Now **I'm learning a new language for me**
 - 💞️ I want to **cooperate with experienced developers**

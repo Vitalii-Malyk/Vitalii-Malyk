@@ -14,6 +14,8 @@
 ![javascript (2)](https://github.com/Vitalii-Malyk/Vitalii-Malyk/assets/125901006/700ccf7b-d9f4-438b-8349-b07cc0cd65ad)
 ![react (1)](https://github.com/Vitalii-Malyk/Vitalii-Malyk/assets/125901006/1a70e8f3-e00f-45e0-bf3c-edbf04068d8a)
 ![redux](https://github.com/Vitalii-Malyk/Vitalii-Malyk/assets/125901006/964bfbc1-be84-483c-af79-9292a27bd8bc)
+![material-ui](https://github.com/Vitalii-Malyk/Vitalii-Malyk/assets/125901006/40cec36e-f106-41bb-b162-abdc8c27648e)
+
 
 
 
